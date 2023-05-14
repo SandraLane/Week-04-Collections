@@ -36,7 +36,7 @@ public class Week04Code2 {
         }
  
         double average = sum / length;
-         
+        
         System.out.println(average);
 	
 	//Question 2:
